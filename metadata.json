@@ -1,0 +1,8 @@
+{
+  "name": "Amiga 68k Go Compiler Playground",
+  "description": "An interactive development environment, cross-compilation toolchain simulator, and 68k CPU emulator for writing Go on AmigaOS 3.x.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
