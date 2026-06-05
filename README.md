@@ -77,4 +77,4 @@ Follow these steps to explore and test Go architectures on AmigaOS:
 ---
 
 ## 🚀 Deployment site
-🌐 [Live site](hhttps://amigago.netlify.app/)
+🌐 [Live site](https://amigago.netlify.app/)
