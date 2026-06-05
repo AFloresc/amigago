@@ -73,3 +73,8 @@ Follow these steps to explore and test Go architectures on AmigaOS:
 *   **Compiler Pipeline**: Go SSA AST Code ➔ SSA Inlines ➔ Register Allocations (D0-D2, A0-A2) ➔ Assembler Hunks (Vasm target) ➔ System Exec Binary.
 *   **Memory Footprint Limit**: Strict 8.2KB to 12.8KB stack boundaries bypass virtual pages, mapping directly to physical fast RAM zones to ensure peak execution speed.
 *   **LVO Trap Conventions**: System interactions are bound under the standard Amiga **A6 register layout linkage**, permitting direct communication with ROM kernels via fast machine trap steps without standard OS context overlays.
+
+---
+
+## 🚀 Deployment site
+🌐 [Live site](hhttps://amigago.netlify.app/)
